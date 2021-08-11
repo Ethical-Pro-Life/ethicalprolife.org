@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Ethical Pro Life
+
+Committed to reducing the need for abortion through ethical means instead of violations of women's liberty. 
+
+It doesn't have to be a battle. 
 
 You can use the [editor on GitHub](https://github.com/Ethical-Pro-Life/ethicalprolife.org/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
