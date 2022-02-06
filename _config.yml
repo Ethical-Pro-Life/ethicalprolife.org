@@ -1,1 +1,13 @@
 theme: jekyll-theme-cayman
+title: [Ethical Pro Life]
+description: [Reducing abortion need ethically]
+show_downloads: false
+github:
+  is_project_page: false
+  repository_url: https://google.com
+  this_link: https://atheistengineer.com
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme 
+exclude:
+  - Gemfile

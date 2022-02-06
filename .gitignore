@@ -1,0 +1,6 @@
+
+# Not gonna need these cache folders.
+_site/
+.jekyll-cache/
+.jekyll-metadata
+*.lock
