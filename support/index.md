@@ -6,6 +6,8 @@ Ethical Pro Life means supporting legislation that guarantees new families socia
 
 * Paid maternity and paternity leave
 * Affordable child care options
-* Medical and nutrition support if poor
+* Guaranteed medical, housing, and nutrition support
 * Safe transportation options
+
+When a family considers their ability to raise a child, all these factors contribute to their confidence and ability. Knowing these basic needs can be met for themselves and their new child is a key factor in increasing the likelihood a family with an unplanned pregnancy will choose to carry that pregnancy to term. 
 
