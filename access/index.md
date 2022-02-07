@@ -16,7 +16,11 @@ Thanks to the Affordable Care Act (Obamacare), insurance providers must now cove
 
 #### Tubal Ligation ("Tubes Tied")
 
-Many women know that they don't want children. But sadly, medical providers often discriminate by [refusing a woman's request](https://www.bustle.com/p/can-doctors-refuse-tubal-ligation-heres-why-its-hard-to-get-one-to-tie-your-tubes-19233587) to have her tubes tied.  Common justifications are that the procedure is hard to reverse and the patient may [change her mind](https://www.chicagotribune.com/lifestyles/ct-xpm-2014-05-13-ct-met-sterilization-denied-20140513-story.html).  By contrast, men seeking a vasectomy can often get the procedure done on short order.  We as a society need to work to end this sexist double-standard in health care settings.  Doing so will reduce the need for abortion.
+Many women know that they don't want children. But sadly, medical providers often discriminate by [refusing a woman's request](https://www.bustle.com/p/can-doctors-refuse-tubal-ligation-heres-why-its-hard-to-get-one-to-tie-your-tubes-19233587) to have her tubes tied.  Common justifications are that the procedure is hard to reverse and the patient may [change her mind](https://www.chicagotribune.com/lifestyles/ct-xpm-2014-05-13-ct-met-sterilization-denied-20140513-story.html).  By contrast, men seeking a vasectomy can often get the procedure done on short order.  
+
+We must end this sexist double-standard in health care settings.  Doing so will reduce the need for abortion.  The [American College of Gynecology says](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/04/sterilization-of-women-ethical-issues-and-considerations?utm_source=redirect&utm_medium=web&utm_campaign=int)
+
+    Respect for an individual woman’s reproductive autonomy should be the primary concern guiding sterilization provision and policy.
 
 ## Abortion Access
 

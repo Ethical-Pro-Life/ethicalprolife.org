@@ -6,8 +6,15 @@
         {
             "label": "jekyll serve",
             "type": "shell",
-            "command": "bundle exec jekyll serve --livereload",
+            "command": "bundle exec jekyll serve",
             "problemMatcher": []
+        },
+        {
+            "type": "markdownlint",
+            "problemMatcher": [
+                "$markdownlint"
+            ],
+            "label": "markdownlint: Lint all Markdown files in the workspace with markdownlint"
         }
     ]
 }
